@@ -1,0 +1,4 @@
+Using the power of WebGL to run a fluid sim. Starting off as a simple grid-based
+Eulerian sim with obstacles and we'll see how it goes from there.
+
+
